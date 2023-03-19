@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ImPavloh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=10000&color=CA88DF&center=true&vCenter=true&width=435&lines=Pavloh" alt="Pavloh" /></a> 
+  <a href="https://github.com/ImPavloh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&color=CA88DF&center=true&vCenter=true&width=435&lines=Pavloh" alt="Pavloh" /></a> 
 </p>
 
 
