@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ImPavloh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&color=CA88DF&center=true&vCenter=true&width=435&lines=Pavloh" alt="Pavloh" /></a> 
+  <a href="https://github.com/ImPavloh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=CA88DF&center=true&vCenter=true&width=435&lines=< Pavloh >" alt="Pavloh" /></a> 
 </p>
 
 
@@ -27,4 +27,8 @@
   <a href="https://github.com/ImPavloh?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ImPavloh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/ImPavloh/Simple-View-Counter">
+</p>
+  
+<p align="center">
+<a href="https://twitter.com/ImPavloh"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 </p>
