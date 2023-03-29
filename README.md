@@ -22,7 +22,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPavloh&layout=compact&theme=radical" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ImPavloh.ImPavloh" alt="Visitors" />
-</p>
