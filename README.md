@@ -16,7 +16,6 @@
   <a href="https://buymeacoffee.com/mPavloh"><img width="32px" alt="Coffee"src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/ImPavloh">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImPavloh&show_icons=true&theme=radical" />
