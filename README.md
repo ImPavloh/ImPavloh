@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ImPavloh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&color=CA88DF&center=true&vCenter=true&width=435&lines=<%20Pavloh%20>" alt="Pavloh" /></a> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3333&color=CA88DF&center=true&vCenter=true&width=333&lines=<%20Pavloh%20>" alt="Pavloh" /></a> 
 </p>
 
 <p align="center">
