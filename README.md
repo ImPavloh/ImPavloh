@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ImPavloh">
-    <img src="https://pbs.twimg.com/profile_images/1627370674619572224/IZPhBPa2_400x400.jpg" height=250px width=250px alt="Pavloh" /></a>
+    <img src="https://i.imgur.com/ZETLDpr.jpeg" height=250px width=250px alt="Pavloh" /></a>
 </p>
 
 <p align="center">
