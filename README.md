@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/ImPavloh"><img width="32px" alt="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://buymeacoffee.com/mPavloh"><img width="32px" alt="Coffee"src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://buymeacoffee.com/Pavloh"><img width="32px" alt="Coffee"src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
 <p align="center">
