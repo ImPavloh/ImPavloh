@@ -15,10 +15,3 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://buymeacoffee.com/Pavloh"><img width="32px" alt="Coffee"src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/ImPavloh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImPavloh&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImPavloh&layout=compact&theme=radical" />
-  </a>
-</p>
