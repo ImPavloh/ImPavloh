@@ -24,4 +24,4 @@
 <img src="https://raw.githubusercontent.com/impavloh/impavloh/output/snake.svg" alt="Snake de contribuiciones" />
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/impavloh/github-stuff/master/sXe.gif') no-repeat center center fixed;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 130vw; opacity: 0.5; background: linear-gradient(170deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 25%, rgba(4,132,202,1) 50%, rgba(0,212,255,1) 75%, rgba(255,0,255,1) 100%); background-size: 200% 200%;]{x0000}$}
