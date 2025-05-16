@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/ImPavloh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3000&color=CA88DF&center=true&vCenter=true&width=333&lines=<%20Pavloh%20/%20>" alt="Pavloh" />
-  </a> 
+  <a href="https://github.com/ImPavloh" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3000&color=CA88DF&center=true&vCenter=true&width=333&lines=%3C%20Pavloh%20/%20%3E" alt="Pavloh" />
+  </a>
   <br>
   <a href="https://www.youtube.com/c/Pavloh" target="_blank"><img width="40px" alt="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
