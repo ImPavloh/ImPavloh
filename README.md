@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/impavloh/" target="_blank"><img width="40px" alt="LinkedIn" src="https://i.imgur.com/w4AODCJ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/ImPavloh" target="_blank"><img width="40px" alt="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  <br> <br>
+  <br>
   <a href="https://pavloh.com" target="_blank">
-    <img src="./assets/pavlohdotcom.png" alt="Pavloh.com" style="max-width:200px;">
+    <img src="./assets/pavlohdotcom.png" width="300px" alt="Pavloh.com">
   </a>
   <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python" />
